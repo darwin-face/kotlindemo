@@ -1,6 +1,6 @@
-package com.example.kotlindemo.api
+package com.example.kotlindemo.message.api
 
-import com.example.kotlindemo.domain.Message
+import com.example.kotlindemo.message.domain.Message
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RestController
